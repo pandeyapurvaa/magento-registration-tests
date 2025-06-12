@@ -14,7 +14,9 @@ Java
 BDD
 
 Pass Report: 
-![image](https://github.com/user-attachments/assets/d6556f7e-af78-4981-9ffe-fbc20a008fd6)
-![image](https://github.com/user-attachments/assets/a70bb7ad-08fa-41e8-b646-72972ea3989b)
+![image](https://github.com/user-attachments/assets/fb96cb49-0136-4768-b9a2-308763b999ee)
+
+![image](https://github.com/user-attachments/assets/4d43dd99-2297-419a-b92d-725baa1de908)
+
 
 
