@@ -18,7 +18,6 @@
   </properties>
 
   <dependencies>
-    <!-- 👇 Import your framework as a dependency -->
     <dependency>
       <groupId>com.apurvaa.magento</groupId>
       <artifactId>selenium-cucumber-magento</artifactId>
