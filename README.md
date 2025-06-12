@@ -2,7 +2,8 @@
 This project automates the user signup flow on a Magento-based web application using:
 
 Integrated it with Jenkins also 
-![image](https://github.com/user-attachments/assets/926e8cf6-8562-4e51-8067-87ccdf99a72b)
+![image](https://github.com/user-attachments/assets/03b77378-2c45-457b-b01e-663d291a04b9)
+
 
 
 http://localhost:8080/job/magento-signup-tests/2/
