@@ -1,2 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","19142","Valid Sign up","","Thu Jun 12 00:47:18 IST 2025","passed","Thu Jun 12 00:47:37 IST 2025","","User Sign Up","Valid Sign up",""
+"","46670","Test01_VerifySuccessfulSignup","","Thu Jun 12 13:20:30 IST 2025","passed","Thu Jun 12 13:21:16 IST 2025","","User Sign Up","Test01_VerifySuccessfulSignup",""
